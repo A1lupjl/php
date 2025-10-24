@@ -1,0 +1,14 @@
+echo "# php" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/A1lupjl/php.git
+ git push -u origin main
+
+
+------------------------------------
+
+git remoto adicionar origem https://github.com/A1lupjl/php.git
+ git branch -M principal 
+git push -u origem principal
